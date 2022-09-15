@@ -45,7 +45,7 @@ body {
 
 .content-small:hover {
     text-align: center;
-    width: 100 v;
+    width: 100 vw;
     float: right;
     padding-left: 20px;
 }
